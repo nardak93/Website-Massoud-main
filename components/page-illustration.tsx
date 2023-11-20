@@ -7,7 +7,7 @@ export default function PageIllustration() {
         <defs>
           <linearGradient id="illustration-01" x1="-4.14" y1="43.12" x2="303.145" y2="391.913" gradientUnits="userSpaceOnUse">
             <stop stopColor="#5D5DFF" stopOpacity=".01" />
-            <stop offset=".538" stopColor="#5D5DFF" stopOpacity=".32" />
+            <stop offset=".538" stopColor="#8f3985" stopOpacity=".32" />
             <stop offset="1" stopColor="#5D5DFF" stopOpacity=".01" />
           </linearGradient>
         </defs>
