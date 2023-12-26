@@ -24,8 +24,8 @@ export default function Hero() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h1 mb-4" data-aos="fade-up">Inspect With Us</h1>
-            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Inspect With Us: Expert safety inspection services for power plants and industrial facilities, focused on ensuring operational integrity, regulatory compliance, and hazard prevention with a team of experienced professionals.</p>
+            <h1 className="h1 mb-4" data-aos="fade-up">Inspection With Us</h1>
+            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Inspection With Us: Expert safety inspection services for power plants and industrial facilities, focused on ensuring operational integrity, regulatory compliance, and hazard prevention with a team of experienced professionals.</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
                 {/* <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0">Start free trial</a> */}

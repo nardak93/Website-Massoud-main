@@ -28,6 +28,14 @@ export default function Header() {
                   Contact Us
                 </Link>
               </li>
+               {/* Add Blog Link */}
+               <li>
+                <Link href="/blog"
+                className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out">
+                Blog
+                 
+                </Link>
+              </li>
               {/* <li>
                 <Link href="/signup" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
                   Sign up
