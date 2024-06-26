@@ -4,9 +4,9 @@ import FeatImage01 from "@/public/images/inspection.png";
 import FeatImage02 from "@/public/images/inspection02.png";
 import FeatImage03 from "@/public/images/Stars.png";
 import CMM from "@/public/images/CMM.jpg";
-import hardness from "@/public/images/Hardness test.jpg";
+import hardness from "@/public/images/Hardness_Test.jpg";
 import roughness from "@/public/images/photo_33_2023-11-27_16-16-54.jpg";
-import salt from "@/public/images/Salt contamination check.jpg";
+import salt from "@/public/images/Salt-contamination-check.jpg";
 
 export default function Zigzag() {
   return (
